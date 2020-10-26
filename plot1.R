@@ -1,3 +1,6 @@
+#Please view the readData.R
+#it contains code for reading the data
+
 #Creating the histogram
 hist(myData$Global_active_power, 
      main="Global Active Power",
